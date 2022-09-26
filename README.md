@@ -1,5 +1,5 @@
 # Sealed Performance Benchmarks In NET 7.0
-Performance benchamrks for sealed vs open classes
+Performance benchmarks for sealed vs open classes
 
 # Sample Result
 Sample result from one of the runs.
