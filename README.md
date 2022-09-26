@@ -1,4 +1,4 @@
-# SealedPerformanceBenmcharks
+# Sealed Performance Benmcharks In NET7
 Performance benchamrks for sealed vs open classes
 
 # Sample Result
