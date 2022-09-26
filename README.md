@@ -1,4 +1,4 @@
-# Sealed Performance Benmcharks In NET7
+# Sealed Performance Benchmarks In NET 7.0
 Performance benchamrks for sealed vs open classes
 
 # Sample Result
