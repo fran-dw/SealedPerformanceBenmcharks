@@ -14,3 +14,7 @@ Sample result from one of the runs.
 | IsCheckSealed | 0.7279 ns | 0.0853 ns | 0.2446 ns | 0.7001 ns |         - |
 |     StoreOpen | 6.7477 ns | 0.2874 ns | 0.8247 ns | 6.5777 ns |         - |
 |   StoreSealed | 4.6622 ns | 0.2726 ns | 0.8037 ns | 4.3668 ns |         - |
+
+# Resources
+https://github.com/dotnet/runtime/pull/68268
+https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/
